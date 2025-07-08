@@ -107,7 +107,7 @@ This comprehensive, multi-layered analysis transforms the dashboard from a repor
 
 ## 4. How to Explore This Project
 1.  **Interact with the Live Simulator:**
-    *   Click the "Live Simulator" badge at the top of this page or go directly to: [Dashboard Demo](https://tinyurl.com/2cw92kbf)
+    *   Click the "Live Simulator" badge at the top of this page or go directly to: [Live Simulator Demo](https://tinyurl.com/2cw92kbf)
 2.  **Review the Documentation:**
     *   For a deeper understanding of the business logic and technical implementation, review the detailed markdown files in the `docs/` folder.
 
