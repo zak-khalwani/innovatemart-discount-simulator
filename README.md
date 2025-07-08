@@ -54,7 +54,7 @@ The dashboard is designed as an interactive decision support tool, guiding a use
 
 The journey begins on the right-hand panel, where a manager can build a complete promotional strategy from scratch.
 
-![Scenario Controls](assets/scenario_controls.png)
+<p align="center"> <img src="assets/scenario_controls.png" alt="Data Model"> </p>
 
 *   **Product & Time Filters:** The user first defines the scope by selecting the product(s) for the promotion, the time period, and the geographic region (state).
 *   **The Core Levers:** The user then adjusts two key inputs:
@@ -65,7 +65,7 @@ The journey begins on the right-hand panel, where a manager can build a complete
 
 As soon as the scenario is defined, the KPI cards at the top provide an immediate, high-level summary, answering the most critical question: **"Is this proposed promotion financially viable?"**
 
-![KPI Cards Simulator](assets/kpi_cards_simulator.png)
+<p align="center"> <img src="assets/kpi_cards_simulator.png" width=60% alt="Data Model"> </p>
 
 *   **Profit & Sales Impact:** This card shows the total projected `Profits Scenario` compared to the `Actual Profits` forecast. The "Actual vs Scenario" difference is the ultimate bottom line—the total estimated dollar gain or loss from running the campaign.
 *   **Profitability Health:** The `Profit Margin` card is crucial. It shows whether the promotion enhances or erodes profitability. A successful scenario is one that not only increases total profit but also maintains a healthy margin.
@@ -74,13 +74,13 @@ As soon as the scenario is defined, the KPI cards at the top provide an immediat
 
 The main charts on the dashboard allow a manager to move beyond the summary numbers and analyze the *character* of the scenario's performance over the selected period.
 
-![Trend Analysis Charts](assets/trend_charts_simulator.png)
+<p align="center"> <img src="assets/trend_charts_simulator.png" width=60% alt="Data Model"> </p>
 
 *   **Cumulative Profit Trajectory:** The `Actual vs Scenario Profits` area chart is arguably the most important visual. It shows how the profit from the scenario (dark purple) accumulates over time compared to the baseline forecast (light purple). This allows a manager to see *when* the strategy starts to pay off and if its lead is growing or shrinking.
 *   **Net Scenario Contribution:** The `Actual vs Scenario Sales Different` chart isolates the cumulative *net difference* in sales, showing a clear upward trend of the value being added by the promotion day after day.
 *   **Daily Risk & Volatility:** The `Potential Daily Profit Change` chart provides the most granular view, answering the question: **"Is this a steady and reliable promotion?"** It shows the daily profit variance between the scenario and the forecast. Consistent positive bars indicate a stable, low-risk strategy. Wild swings between positive and negative bars signal a volatile, higher-risk promotion.
 
-![Daily Volatility Chart](assets/daily_change_chart.png)
+<p align="center"> <img src="assets/daily_change_chart.png" alt="Data Model"> </p>
 
 This comprehensive, multi-layered analysis transforms the dashboard from a report into a true strategic simulator.
 
